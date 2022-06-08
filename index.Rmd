@@ -1,56 +1,45 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
-date: "`r Sys.Date()`"
+title: "Lab Manual for the No Name Lab"
+author: "The Lab"
+date: "Updated on `r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
-# cover-image: path to the social sharing image like images/cover.jpg
-description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::gitbook,
-  set in the _output.yml file.
+url: https://github.com/jordandsnyder/labmanual
+cover-image: images/cover.jpg
+favicon: "images/icon.png"
+biblio-style: apalike
+description:  |  
+  This is the lab manual for the no-name lab.
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: https://github.com/jordandsnyder/labmanual
 ---
 
-# About
+# Welcome! {-}
+Welcome to the No-Name Lab at the University of Wisconsin, Parkside! If you are reading our lab manual because you recently joined the lab, welcome! If you are a current member of the lab, frequently refer to our lab manual to refresh our guidelines, policies, platforms, among others. We also look forward to learn and research together. We also welcome you to read this manual if you are looking for tips and tricks for your own manual.
+ 
+It’s also a work in progress; therefore, updates are implemented as we move forward. If you have ideas about things to add, or what to clarify, feel free to talk to the PI (Dr. Jordan Snyder).
+ 
+No Name lab members are expected to read this manual and sign a form within your first 7 days in the lab indicating you have done so. Signing this form confirms that the lab member will perform their duties and meet the expectations according to this manual.
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+Before the actual lab manual, we have some people to thank. These include folks who have made their lab manual accessible and members of the lab who have provided feedback based upon the lab manual.
 
-## Usage 
+Specifically, we thank the following for making their lab manuals accessible:
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+- [Dr. Aly's Aly Lab Manual](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf), who was also kind enough to write up an article about the lab manual [@aly2018key]
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
+- [Dr. Schleider's Lab Manual for the Lab for Scalable Mental Health](https://osf.io/pwnsm/)
 
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
+- [Dr. Treichler's Collab Lab Manual](https://www.thecollablab.org/)
 
-## Render book
+- [Dr. Burke's Inergroup Bias Lab Manual](http://www.saraemilyburke.com/IntergroupBiasLabManual.pdf)
 
-You can render the HTML version of this example book without changing anything:
+- [Dr. Rivera-Mariani's RIPLRT Lab Manual](https://bookdown.org/friveram/labmanualriplrt/)
 
-1. Find the **Build** pane in the RStudio IDE, and
 
-1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
+**Welcome to the Lab!**
 
-Or build the book from the R console:
-
-```{r, eval=FALSE}
-bookdown::render_book()
-```
-
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
-
-## Preview book
-
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
-
-```{r eval=FALSE}
-bookdown::serve_book()
-```
-
+*Note: the date listed above corresponds to the date the manual was updated. The date this manual was initially created was on [INSERT DATE HERE].*
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
@@ -58,3 +47,7 @@ knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
 ```
+
+---
+
+**Note**: The repository for this lab manual can be found here: https://github.com/jordandsnyder/labmanual. Also, this manual was developed, and continuously updated (as needed), through the R [@R-base] computer language, and employs the Bookdown [@R-bookdown], knitr [@R-knitr], and R-markdown [@R-rmarkdown] packages. 
