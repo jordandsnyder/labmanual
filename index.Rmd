@@ -36,6 +36,11 @@ Specifically, we thank the following for making their lab manuals accessible:
 
 - [Dr. Rivera-Mariani's RIPLRT Lab Manual](https://bookdown.org/friveram/labmanualriplrt/)
 
+## About this Lab Manual
+
+We use a lab manual for a few reasons. First, it makes certain things explicit, including things like expectations, so that we don't have to guess. Second, it removes the informal passing on of critical information; with this information and the appropriate information in the [LAB WIKI - LINK TBD](), you should have everything to get caught up to reasonable speed. If you do find something that you think is necessary, but not in here, talk with Jordan or the lab manager about getting this added.
+
+Jordan will likely revise this lab manual on an semester basis, and as issues come up.
 
 **Welcome to the Lab!**
 
