@@ -1,11 +1,183 @@
 # Expectations and Responsiblities
 
-## Expectations of Everyone
+## Expectations of Everyone {#everyone}
+
+### Big Picture
+
+- Do work that impacts folks and communities, and increases their wellness.
+
+- Do work that makes you proud; make sure the work you do is the highest-quality work you can do. Don't rush. Double-check things. Don't make careless mistakes.
+
+- Remember that you are human; you will make mistakes, and this is okay. If you make a mistake, tell someone early and often. The earlier we can catch a mistake, the easier it is to correct. Jordan has made many mistakes (and will make more mistakes in the future), but please speak up!
+
+- Related to the University of Wisconsin, Parkside's policies on academic integrity ([Policy 28](https://www.uwp.edu/explore/offices/governance/policy28.cfm),[Policy 35](https://www.uwp.edu/explore/offices/governance/policy35.cfm)), maintain integrity in doing scholastic and scientific work. Do not plagiarize, make up data, or alter results. The consequences of doing these can significant. If you have questions about this, talk to someone, including Jordan.
+
+- Support your lab-mates. Help them if needed, even if it is a different project. We all do better when we support each other.
+
+- Respect your lab-mates. Respect their strengths, their developing skills, and their culture, religion, beliefs, and identity.
+
+- If you are struggling, talk with someone! Feel free to talk with Jordan. Your health and wellness is the 1st priority. We look out for each other and understand that life can be difficult. Please feel free to ask for help, or just to talk through things. If you find yourself struggling with anything in lab, please tell Jordan, he values you more than the project that you are on. 
+
+- If there is tension or hostility within the lab, we need to address this. Disrespect and rudeness is not acceptable. If you don't feel comfortable addressing the issue with the responsible party, talk with Jordan (even if you feel okay talking with the responsible party, it is still good to tell Jordan).
+
+- If you have an issue with Jordan, please talk to him about it. If you are not comfortable talking with Jordan, I encourage you to follow up with the department chair (currently Dr. Gregg). She can offer guidance and, if appropriate, intervene on your behalf.
+
+- Outside of lab, please enjoy your life. Jordan would love to hear about cool things you are doing, what you are watching or reading, good places to eat, and where you are traveling to. Jordan believes that life is more than just work, and will lead by example (and share this with you). Jordan doesn't expect students to share about their life unless they want to, however.
+
+### Small Picture (every day)
+
+- If you are sick, please stay home. Reschedule meetings, and you can work remotely if up against a deadline.
+
+- Please keep the lab space clean and tidy. Please clean up after yourself. Please be respectful of the equipment in the lab space.
+
+- Show up to your meetings, your lab hours, interviews/running participants or stakeholders, and lab meetings. Do what you say you will do (i.e., do what you have committed to doing and be dependable).
+
+- Dress code is casual. There are a couple exceptions including working in communities/conducting interviews (in which case, talk with Jordan) and presenting information (professional attire, talk with Jordan about this).
+
+- Lock the lab once you leave it. Turn off any lights/air conditioners if you are leaving. 
+
+- Please be responsive to communication. When lab is in session (September to December; February to May), I expect email responses in 24-48 hours during the work week (Monday-Friday).
+
+- Work when you want, but keep track of the time you work so as to not exceed what your role entails. If you find yourself working over the hours prescribed for your role, please talk with Jordan. I don't expect you to work on weekends or late into the night. If this is continually happening, please talk with me. 
 
 ## Expectations of Jordan
 
+Jordan will do everything in the [everyone section](#everyone) and the following:
+
+- Provide supportive, thoughtful, and individually-tailored guidance that is appropriate for your training level. 
+
+- Prioritize your growth as a scientist. Jordan will do his best to support, guide, and collaborate on your work without micromanaging it. It is on you to see ideas through to completion. 
+
+- Provide feedback on scientific products (abstracts, papers, pre-registrations, etc.). I will try to do this within a week, unless I have other commitments. I will let you know if this is the case.
+
+- Be available via email and in-person (either in human form or via Zoom) to discuss research, lab-related, and professional development topics.
+
+- Maintain a vision for where the lab is going.
+
+- Welcome feedback from lab members to improve the lab.
+
+- Help you prepare for what comes next for you.
+
+- Provide students with written feedback on their performance on an annual basis. If there is any issue, Jordan will provide feedback as soon as possible and help to address challenges collaboratively. 
+
+- Obtain funding to support lab members and research projects.
+
+- Create an inclusive, supportive, and scientifically rigorous work culture where people and ideas are valued.
+
+- Geek out on stats and technology stuff related to labwork.
+
+- Care about you as a person.
+
+
 ## Expectations of Lab Manager
+
+The lab manager will do everything mentioned in the [everyone section](#everyone) as well as the following:
+
+- Assist in maintaining aspects of day-to-day lab functions, and work on other lab projects based on
+the lab’s needs.
+
+- Help Jordan in coordinating the overall progress of the lab and its projects, and help Jordan coordinate any other research assistants.
+
+- Help maintain the lab website, lab wiki, lab manual, lab schedule/calendar, and other administrative tasks of the lab. 
+
+- Focus on collecting high-quality data from our participants, with every participant you interact with. The quality of our research relies on the quality of our data. In other words: *Your job is incredibly important!*
+
+- Maintain IRB protocols for the lab that are connected to the projects you work on.
+
+- Assist with data collection, cleaning, and analysis.
+
+- Help new lab members adjust to the lab by answering whatever questions you can. Jordan can fill-in gaps when you aren’t sure about a particular answer.
+
+- Delegate tasks to undergraduate research assistants.
+
+- Contribute to day-to-day lab functions, update the lab website, and contribute to other studies and lab activities based on your interest and availability, and the lab’s needs.
+
+-	Develop an individualized training plan with my help (and potentially other members of the lab or other mentors) that will help you reach your professional goals (like going to graduate school). 
+
+- Work with our clinical, community, and research partners, especially when it comes to managing study procedures, maintaining strong relationships, and troubleshooting problems. 
+
+- Maintain IRB protocols for the studies you work on.
+
+-	Monitor our resources, including printing, audio taping devices, transcriptions, assessments, and other things we need. 
+
+- Identify and work on your own research projects, which may be a part of or offshoots of the study you were hired to work on, but could also be new research projects. Keep in mind that starting new projects can be time consuming, so if you would like to do this, make sure you plan to stay in your role long enough to complete data collection and analysis. 
+
+- Participate in other activities that will help with your professional development. I can help you identify these as needed. 
 
 ## Expectations of Project Leads
 
-## Expectations of Undergraduate Research Assistants (volunteer, URAP, for credit)
+The Project leads will do everything mentioned in the [everyone section](#everyone) as well as the following:
+
+- Focus primarily on the study or studies you joined for. 
+
+- Serve as the lead of the project you are assigned to, which means you train and supervise the URAs assigned to your project as needed. Serve as the communicator to Jordan about what is happening with the project. 
+
+- Contribute to day-to-day lab functions, and contribute to other studies and lab activities based on your interest and availability, and the lab’s needs.
+
+- Develop an individualized training plan with my help (and potentially other members of the lab or other mentors) that will help you reach your professional goals (like going to graduate school). 
+
+- Focus on collecting high-quality data from every participant you interact with, and otherwise uphold high levels of scientific and professional rigor. The quality of our research depends on the quality of our data. Data collection is an incredibly important role!
+
+- Meet regularly with your primary supervisor(s). Attend lab meetings, journal clubs, and other meetings. 
+
+- Identify roles on existing or upcoming research projects. Work with the other members of the team to establish your role and authorship status on those projects.
+
+- Participate in other activities that will help with your professional development. I can help you identify these as needed.
+
+- Present at one lab meeting each year.
+
+- Present in some form at once conference. 
+
+## Expectations of Undergraduate Research Assistants (URAs; volunteer, URAP, for credit)
+
+The Undergraduate Research Assistant will do everything mentioned in the [everyone section](#everyone) as well as the following:
+
+- Focus primarily on the study or studies you joined for. 
+
+- Contribute to day-to-day lab functions, and contribute to other studies and lab activities based on your interest and availability, and the lab’s needs.
+
+- Develop an individualized training plan with my help (and potentially other members of the lab or other mentors) that will help you reach your professional goals (like going to graduate school). 
+
+- Focus on collecting high-quality data from every participant you interact with, and otherwise uphold high levels of scientific and professional rigor. The quality of our research depends on the quality of our data. Data collection is an incredibly important role!
+
+- Meet regularly with your primary supervisor(s). Attend lab meetings, journal clubs, and other meetings. 
+
+- Identify roles on existing or upcoming research projects. Work with the other members of the team to establish your role and authorship status on those projects.
+
+- Participate in other activities that will help with your professional development. I can help you identify these as needed.
+
+- Present at one lab meeting each year.
+
+- Present in some form at once conference. 
+
+#### Volunteer
+
+Volunteer URA have a few stipulations:
+
+- If you are a volunteer in the lab, you will limit your participation up to 5 hours, inclusive of all lab activities. Please tell Jordan if you are working more than this.
+
+#### URAP
+
+URAP URAs have a few stipulations:
+
+- Keep up a diary of what you work on/accomplish so that you can use this when you write up your required report.
+
+- Expected hours are about 5 hours per week if you are being paid during the fall/spring semesters. If you are working more than this, tell Jordan.
+
+#### For Credit
+
+For Credit URAs have a few stipulations:
+
+- Work with Jordan to turn in the forms needed for the registrar.
+
+- Do all of the tasks required in the form for your grade. 
+
+- Expected hours are about 9 hours per week if you are doing the 3 credit version. If you are working more than this, tell Jordan.
+
+## Expectations of the Lab Mascot, Nelson
+
+Nelson's expectations are to be cute and distract Jordan from writing by causing mischief.
+
+```{r nelson, echo=FALSE}
+knitr::include_graphics(rep("images/nelsonplaying.jpg"))
+```
