@@ -7,3 +7,15 @@
 ## The Lab Space
 
 ## Funding
+
+### The Undergraduate Research Assistantship Program (URAP) {#URAP}
+
+The [Undergraduate Research Assistanship Program (URAP)](https://www.uwp.edu/explore/offices/researchadmin/urap.cfm) program provides modest stipends for conducting research with a professor. Amounts include \$500 for either the fall or spring semester, and a \$2000 stipend for the summer. Usually, it is best for students to already be involved in the lab to apply for this funding, as it involves a substantial process. If you are interested in applying for URAP, please reach out to Jordan at least **2 months** before the due date.
+
+  App Due Date      Semester of Work      Stipend
+----------------  --------------------  -----------
+    April                Fall              $500
+    January              Spring            $500
+    March                Summer            $2,000
+
+If you join the lab with URAP funding, you will be required to submit a report of what you did during your time in the lab. I recommend you keep a journal of tasks and activities that you did during the lab to make this process easier. 

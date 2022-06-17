@@ -24,7 +24,7 @@ These are values that guide and direct our work on a daily basis. By working in 
 
 - Service: We look to the interests of others, including fellow labmates, community partners, and research participants.
 
-- Diversity: Having diverse perspectives allows us all to learn and get a better perspective. 
+- Diversity: We all have different backgrounds and experiences. Through this diversity, we can all learn and get a better perspective. 
 
 
 ## The Communities with whom we partner
@@ -61,18 +61,12 @@ PI contact: TB
 
 To join the lab, there is a multi-step process. 
 
-1. I ask that you fill out a lab application. A [lab application can be found here](). Once the lab application has been filled out, an email will be sent to Jordan. Please note, there are several ways to join the lab:
-  + Join the lab as a volunteer. If you join the lab as a volunteer, you will not get compensated or get academic credit for participating in lab. I ask students who volunteer in lab not to do more than 3-6 hours of lab work per week (inclusive of all meetings).
+1. Send Jordan a lab application. A lab application consists of sending Jordan an email (snyderj@uwp.edu) with the following: Once the lab application has been filled out, an email will be sent to Jordan. Please note, there are several ways to join the lab:
+  + Join the lab as a volunteer. If you join the lab as a volunteer, you will not get compensated or get academic credit for participating in lab. I ask students who volunteer in lab not to do more than 5 hours of lab work per week (inclusive of all meetings).
 
-  + Join the lab for credit. If you join the lab for credit (and Jordan approves this), you will work on a form with Jordan to submit to the registrar. The form will contain a list of obligations/responsibilities for you to complete for a grade. You will get credit for [PSYC499](https://www.uwp.edu/learn/academiccatalog/2019-2021/psyc.cfm#courses#courses). You can get up to 6 credits of PSYC499, with 3 credits counting for upper level electives in the psychology major, and 3 credits counting for upper level electives. If you wish to use 6 credits, I ask that you commit to a full year in the lab (September - May) and use 3 credits per semester. I ask students to expect to work a maximum of 3 hours per week per credit hour (e.g., for 3 credits, you could work up to 9 hours in lab responsibilities per week).
+  + Join the lab for credit. If you join the lab for credit (and Jordan approves this), you will work on a form with Jordan to submit to the registrar. The form will contain a list of obligations/responsibilities for you to complete for a grade. You will get credit for [PSYC499](https://www.uwp.edu/learn/academiccatalog/2019-2021/psyc.cfm#courses#courses). You can get up to 6 credits of PSYC499, with 3 credits counting for upper level electives in the psychology major, and 3 credits counting for upper level electives. If you wish to use 6 credits, I ask that you commit to a full year in the lab (September - May) and use 3 credits per semester. I ask students to expect to work a maximum of 3 hours per week per credit hour (e.g., for 3 credits, you could work up to 9 hours in lab responsibilities per week). However, I don't want you working more than that outside special occasions (e.g., traveling to a conference, etc.).
 
-  + Join the lab as through the [Undergraduate Research Assistanship Program (URAP)](https://www.uwp.edu/explore/offices/researchadmin/urap.cfm). This program provides modest stipends for conducting research with a professor. Amounts include \$500 for either the fall or spring semester, and a \$2000 stipend for the summer. Usually, it is best for students to already be involved in the lab to apply for this funding, as it involves a substantial process.
-
-  App Due Date      Semester of Work      Stipend
-----------------  --------------------  -----------
-    April                Fall              $500
-    January              Spring            $500
-    March                Summer            $2,000
+  + Join the lab as through [the Undergraduate Research Assistantship Program (URAP)](#URAP).
 
 2. Jordan will review these applications on a weekly basis and reach out if he has capacity/availability for a student to schedule an interview. Based upon the application and the interview, he may extend an invitation to join the lab.
 
