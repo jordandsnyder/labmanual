@@ -2,11 +2,26 @@
 
 ## Sharepoint
 
+The lab sharepoint is one of the primary ways that we facilitate information. This website will also host the lab wiki. There is a planner tool that will be used to assign work to folks.
+
+## Canvas
+
+We also have a canvas page that may host some information.
+
 ## Qualtrics
+
+This is how we will host surveys. Login information and design is available as needed.
 
 ## The Lab Space
 
+Our lab is found in MOLN315E. Jordan will give you information on how to login. 
+
 ## Funding
+
+Funding for this lab comes from:
+
+- Jordan's startup funds
+- UWP College of Natural and Health Sciences
 
 ### The Undergraduate Research Assistantship Program (URAP) {#URAP}
 
