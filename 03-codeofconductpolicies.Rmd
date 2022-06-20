@@ -1,24 +1,118 @@
 # Code of Conduct and Policies
 
+The lab is dedicated to providing a safe experience for everyone, regardless of race, ethnicity, gender identity and expression, age, sexual orientation, disability, mental health status, country of origin, or religious/spiritual beliefs. We do not tolerate harassment of lab members in any form. Harassment includes but is not limited to: offensive verbal comments, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks, threats, coercive behavior, inappropriate physical contact, and unwelcome sexual attention. We expect all lab members to follow these guidelines at any lab-related event.
+
+Lab members asked to stop harassing behavior are expected to comply immediately. Failure to comply could lead to consequences including dismissal from the lab, and/or legal action.
+
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Jordan immediately. If you have concerns about Jordan, please reach out to Dr. Gregg or another trusted faculty member or administrator who can assist.
+
+If you experience any form of sexual harassment, sex discrimination, or gender-based violence, you can file a report with the [Title IX office at UWP](https://www.uwp.edu/explore/offices/titleix/). 
+
+**IMPORTANT**: UWP Faculty members are considered "responsible employees" or "mandated reporters," meaning that they are required to report violations of Title IX to the TItle IX Coordinator. Jordan is a responsible employee and must report any Title IX related incidents that are disclosed in writing, discussion, or a one-on-one. Before talking with Jordan about a Title IX incident, be sure to ask whether they are a responsible employee. Jordan is happy to talk with you and help you, but Jordan wants you to be certain you are aware of his status and are comfortable with him about reporting an incident you choose to disclose. Jordan will try to check with you if he gets the feeling you are about to disclose a Title IX violation. IF you wish to speak with someone for support or remedies without making an official report, you can talk to confidential services at the [UWP Student Health and Counseling Center](https://www.uwp.edu/live/services/studenthealth/). You can also talk to me without talking about specifics, and I can be glad to help connect you to care/support.
+
+Please also know that Jordan is required to report any suspected child abuse/neglect as apart of his role as well. Please let him know if you have any questions or concerns.
+
 ## Diversity and Inclusion
 
+This lab is committed to an environment that is supportive, educational, and empowering for everyone. Thus, this lab is committed to diversity, inclusion, and equity for everyone regardless of group membership. This means the lab actively does the following (but this is a non-exhaustive list):
+
+- Jordan seeks out ongoing education on how to work with students who belong to traditionally underrepresented groups in clinical psychology. He welcomes feedback from students, but he does not expect them to teach him how to teach them.
+- Jordan is committed to the ideas of cultural humility, and he will talk about this in lab quite a bit.
+- Jordan will seek out funding for students and scholars from traditionally underrepresented backgrounds in the lab's research.
+- We prioritize open, rigorous scientific methods, and communicating these results to those we partner with.
+- We seek to provide a culture of mutual support.
+- We commit to standing in solidarity with each other when we see discrimination and inappropriate behavior.
+
+## Problems and Reporting
+
+If you have problems with another lab member, you can talk with them if it is something you feel comfortable with. If you do not feel comfortable with talking with the lab member, please talk with Jordan. If you have problems with Jordan, but do not wish to talk with Jordan about them (but please do if you feel comfortable sharing with me), feel free to talk to Dr. Gregg or another trusted faculty member.
+
 ## Academic and Scientific Integrity
+
+The integrity of the research and work that we conduct is critical. This means that there is to be no fabrication, falsification, omission, characterization, plagiarism, 'fudging', or any other unethical scientific/academic practices in the work that we do. If there is any academic dishonesty or scientific misconduct, it will be treated as a very serious matter, and there can be serious consequences for engaging in dishonesty or misconduct. If you are concerned about the academic or scientific practices happening in the lab, please talk with Jordan. If you are unfamiliar with policies, please talk with Jordan.
+
+Please respect yourself, your peers, Jordan, and the communities and people we work with by refraining from any academic dishonesty and scientific misconduct. If you feel pressure to engage in any of these policies, please talk with Jordan. If you are concerned about Jordan's practices, please talk with him. If you feel like you cannot talk with him, please talk with Dr. Gregg.
 
 ## Research Practices
 
 ### Open Science
 
+Open science is a relatively new idea, and it contains many different aspects. In general, it is a set of principles and practices that emphasize transparency, scientific integrity, and accessibility. Open science can help the work we do is high quality, ethical, easily reproducible, and accessible to laypeople and other researchers. 
+
+In the lab, we will approach open science from a practical perspective: we will seek to do the best we can when possible (i.e., as long as it does not come into conflict with our work with communities and participants). Open science could include the following for us:
+
+- Pre-registering some studies: We could pre-register studies including hypotheses and data analysis. Pre-registration can help us to articulate our hypotheses and data analyses. We could also pre-register exploratory studies as it can help us establish some credibility and transparency for our ideas.
+  + We can register these on the Open Science Framework.
+  + We can have an internal record of our data analysis plan and project in the lab sharepoint account. You must have a plan and have approval before you submit your IRB, data collection, and/or data analysis.
+- Maintaining accurate and thorough study protocols: We will have detailed study protocols to decrease the error in our data and facilitate reproducibility. We want our protocols to be detailed enough that someone else could come along and pick up and be able to implement it well. We should not have to guess at what we have to do. If there are issues with the protocol, talk with Jordan. If you make an error, document it and let the team know.
+- Documenting your analyses. Whatever statistic software you are using, make sure to document and save the analyses you used for later. Jordan typically uses R and uploads his code to github (don't upload the data, however!).
+- Dissemination of our work: we seek to disseminate our work broadly, not just to the academic community (and the traditional academic outlets like conferences and journals). We do a great deal of community-based work, and our primary aim should be to answer their questions. Our secondary aim should be more general dissemination. We can also seek out opportunities to share our research via social media, the general media, and advocating in terms of policy.
+
 ### Authorship
+
+Authorship in academic circles help to clarify who gets what amount of credit for the academic labor. The lab uses guidance from the International Committee of Medical Journal Editors (ICMJE) and the American Psychological Association (APA) to determine authorship. [According to the ICMJE](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html), authorship is determined by four criteria:
+
+"1. Substantial contributions to the conception or design of the work; or the acquisition, analysis, or interpretation of data for the work; AND  
+2. Drafting the work or revising it critically for important intellectual content; AND  
+3. Final approval of the version to be published; AND  
+4. Agreement to be accountable for all aspects of the work in ensuring that questions related to the accuracy or integrity of any part of the work are appropriately investigated and resolved."
+
+Similarly, the [APA notes](https://www.apa.org/research/responsible/publication): "Authorship credit should reflect the individual’s contribution to the study. An author is considered anyone involved with initial research design, data collection and analysis, manuscript drafting, or final approval. However, the following do not necessarily qualify for authorship: providing funding or resources, mentorship, or contributing research but not helping with the publication itself."
+
+In line with APA and ICMJE guidelines and suggestions, authorship expectations should be communicated and addressed **before** a project/paper is pursued. Everyone should be clear on what the expectations and responsibilities are. Usually, the first author is the primary person on the project. This means that they should have the central role in conceptualization, execution, analysis, and dissemination of the submission. Generally, people who played a less central role, but still qualify for authorship based upon the above descriptions, will be given middle authors. Jordan may be included as a senior author (i.e., last author) when a student is leading a paper. However, there are times when for unforeseen reasons, authorship may change (i.e., the primary author may have to drop out of the lead role). Lab members are expected to be flexible and understand that if roles change, authorship may change as a function of this. If you have questions or concerns, please talk about them!
 
 ### Human Subjects Research
 
+Our lab works with people and communities, thus, pretty much all of our research involves human subjects. All of our research must be approved by [the Institutional Review Board (IRB) at UW-Parkside](https://www.uwp.edu/explore/offices/researchadmin/irb.cfm). Furthermore, all of our research procedures must adhere to what is proposed and approved by the IRB. There are severe consequences if the approved protocol is violated.
+
+All students, faculty, and staff who are involved in research need to complete human subjects research training. Everyone involved in data collection must complete ethics training (typically CITI training) before collecting data. 
+
+To complete your training, please check out the [CITI Human Subjects Training](https://about.citiprogram.org/en/homepage/). UWP [instructions for the training are here (Word document warning)](https://www.uwp.edu/explore/offices/researchadmin/upload/CITI-tutorial.docx). Specifically, complete the course entitled "IRB Training for Students and Faculty." Please be aware that this course will likely take anywhere from 6 - 8 hours.
+
+Please save your certificate and upload it to the appropriate place in the lab sharepoint for documentation purposes. This needs to be renewed every three years.
+
+### General Lab Research
+Much of our lab's research will be done via projects Jordan is the primary investigator on. This means that Jordan is the one who takes the lead on conceptualizing the research, designing the study, collecting the data, analyzing the data, and disseminating the results. However, students will generally jump in at various points as a part of a mentored experience, for credit, volunteering, or as a part of the [URAP](#URAP) program. 
+
+However, students can initiate their own research projects (and conduct them given Jordan's approval). Usually, if you want to conduct your own research that you will have to collect data for, Jordan will want you in the lab for a full year. If you wish to use already collected data to answer your question, then you may need less time than this. 
+
+Below are the general steps to planning, conducting, and communicating/disseminating a study. These are designed to walk you through the steps necessary to bring a study from conceptualization to completion. 
+
 ### Planning a Study
+
+1. Read past work on a topic. Review the studies that are 'classic' in the field. Use PSYCINFO or Google Scholar to search and find articles. Collect them in Zotero, paying attention to the ones that are cited repeatedly. You can also ask for Jordan to recommend them.
+
+2. Conduct an annotated bibliography. Using the provided annotated bibliography sheets, read through the articles in detail. Make sure to save your annotated bibliography.
+
+3. Come up with a question that you have after reading all of the articles. This is a question that you want to answer or soemthing that you want to test based upon the literature that you have. Likely, you will want to share this question and the rationale for your question with the lab. You want to make sure your question is one that you can answer using psychological research methods.
+
+4. Once you know your question, you can begin to think through the design to your study. Is it going to be a qualitative study (e.g., open-ended questions), quantitative (e.g., surveys that we tally up for numbers), or mixed-methods (both)? Are you doing an experiment (i.e., testing an intervention) or are you doing a one time survey?
+
+5. Once you start to think through these logistics, it is important to specify your measures. If you are doing quantitative work, this is going to be your scales/measures, as well as what construct they operationalize. If you are doing qualitative work, this is going to be your qualitative measure.
+
+6. Complete a pre-registration template (if applicable) as well as the IRB approval form. We will submit the IRB approval, and may get feedback that we will incorporate on your protocol.
 
 ### Conducting a Study
 
+7. Once you have IRB approval, you can actually begin to collect data. If you are doing qualitative work, this means interviewing or surveying folks. If you are doing quantitative work, you are likely sending out surveys for people to answer. This can take a considerable amount of time!
+
+8. Analyze your data. If you are doing quantitative work, this usually involves descriptive and inferential statistics, like t-tests, ANOVAs, multiple regression, etc. If you are doing qualitative work, this includes coding your transcribed interviews. You should be doing your analysis according to your protocol that you previously developed.
+
+9. Summarize your results in plain English, or in terms that lay people could understand.
+
 ### Communicating/Disseminating Information
 
-#### Presentations/Conferences
+10. You may wish to communicate your results initially in a poster format or as a presentation. This is typically a bit easier to do, and helpful in crafting a paper. You can see some venues for this [here](#presentations). If you have questions, please talk with Jordan
+
+11. If you were doing community-based research, you want to communicate your findings to the community. Some ideas on this [in the community dissemination section](#community).
+
+12. If you are writing a paper for a journal article, begin by writing the method section, and then the results section. You may then go back and wish to write the introductions section (you should have a good grasp on this from your literature review) and then move to the discussion section. Incorporate edits from your co-authors. Write the abstract last. Make sure to write your paper with a target journal in mind, and write to their requirements. Every journal has different requirements (which is so frustrating), and so you want to make sure you have a clear target for this. More thoughts in the [journal section](#journals). This can be quite challenging to do, but is rewarding.
+
+#### Community Dissemination {#community}
+
+Perhaps one of the best parts of doing community-based research is sharing the results of the research with the community. Oftentimes, we actually interpret the data we have collected best in the context of the community, and they can be critical in understanding the data received. The format of this may look different depending on the community and the project. For some, this looks like a written report and a presentation, for others, it may be a short brochure. Jordan and the community-partners will discuss what works best. 
+
+#### Presentations/Conferences {#presentations}
 
 Below are a list of local, state, regional, and national conferences where you can present your research. I highly recommend (and may even require!) submission of your research to one or more of the conferences below. Presenting your research helps (1) inform others of the good work that you are doing, (2) helps you conduct your research (by giving you an external deadline to have something), (3) helps you speak to your research to experts and non-experts (and through this, you learn more about it), and (4) allows you to get feedback from various folks who may be able to help you extend your research.
 
@@ -50,20 +144,50 @@ As you work to develop your presentation, please work with Jordan. Jordan will w
 
 - [Society for Community Research and Action Biennial Conference](https://www.scra27.org/event/biennial-conference/): Division 27 of the APA - Community-psychology - conference operated every two years (odd years) in June. Submissions due (TBD - COVID has thrown this off).
 
-- [Peace Psychology Biennial](http://peacepsychology.org/conference): Peace Psychology conference operated every two years (even) in May. Submissions due February. Last conference was in 2020, 2022 was cancelled due to COVID.
+- [Peace Psychology Biennial](http://peacepsychology.org/conference): Peace Psychology conference operated every two years (even) in May. Submissions due February. Last conference was in 2020, 2022 was cancelled due to COVID. Unsure what the future plans are for this conference.
+
+#### Journals {#journals}
+
+We don't publish in [predatory journals](https://beallslist.net/). We try to publish in open access journals when possible, but we can also upload preprints.
+
+You should have a list of journals that you are targeting **BEFORE** you start writing up your project. The appropriate journals can be different depending on the project/paper. Please talk with Jordan and identify journals before you start writing!
 
 ## General Policies
 
 ### Hours
 
+One benefit of this work is that outside of doing necessary time bound activities (i.e., meetings with the lab or community stakeholders, interviewing participants, etc.), time is quite flexible. So, if you work better with one hour per day dedicated to lab stuff, and that fits into your lab requirements, great. If you would rather spend several hours on lab stuff two days per week, that is great. As long as you meet your necessary requirements and all of your appointments in a timely manner (i.e., be on time when you agree to meet someone), that is great.
+
+Expectations regarding hours depend on the person's role in the lab. Make sure that you do not work over the hours you are assigned to, if you do, please reach out to Jordan.
+
+Jordan generally works from home 3 days per week. He is generally on campus 2 days per week (usually the days he teaches and has in person office hours). If Jordan is in his office and his door is open, feel free to check in and chat. If Jordan is pressed for time, he may ask you to schedule a seperate meeting. If his door is closed, he is either on a call, in a meeting, or working feverishly on something. In this case, please don't interrupt unless it is an emergency!
+
 ### Meetings
+
+*Lab Meeting.* We will have regular ongling lab meetings in our lab that all lab members are encouraged to attend. During this meeting, we will will give presentations, share new study ideas, and Jordan may present on professional development-related topics. We may also troubleshoot roadblocks or challenges related to projects.
 
 ### Deadlines
 
+If you need Jordan to review something by a specific deadline, give him as much time as possible. Please email him deadlines, and include the relevant instructions. Jordan prefers four weeks' notice for recommendation letters. One week notice is acceptable for smaller tasks (e.g., paperwork, commenting on poster abstracts), but do try for two weeks when possible.
+
+Jordan *really* appreciates reminder emails a few days before really important deadlines (e.g., graduate school recommendation letters). Usually, he will have your letter submitted by then, but the additional reminder can be helpful (and hopefully his confirmation will be anxiety-relieving for you!).
+
 ### Presentations
+
+I highly recommend all students submit presentations/posters in our lab. Please be prepared to give a practice lab presentation a week a head of time. Practicing is important!
 
 ### Recommendation Letters
 
+Jordan is very happy to write letters of recommendation for lab members. You will want to make sure that Jordan can write you a strong, well-detailed letter, so ask Jordan ahead of time about this in a one-on-one meeting.
+
+If Jordan agrees, Jordan will provide you with a qualtrics link to upload your CV and answer some questions. Though this form is long, Jordan does it so that he make sure he knows the important details of your work for what you are applying for and that he can write you the best letter possible.
+
+The better organized you are, the better. Jordan writes a good number of recommendation letters. He wants to make sure that he does a good job of this, and so feel free to follow up with him.
+
 ### Graduate School Applications
 
+Jordan is happy to discuss careers in mental health, graduate school application process (and what type of graduate school to go to), and feedback on application materials. If there are enough students in the lab, Jordan may recommend we form a subgroup that talks about these topics on an on-going basis and also provides peer-feedback.
 
+### Individualized Training Plans
+
+You will complete an individualized training plan when you start and update it at least yearly. If not, you can still choose to complete an individualized training plan with Jordan or share your existing one if you think that would be helpful. Individualized training plans include long- and short-term goals and specific activities to help you reach those goals. This will help us identify how to focus your time within the lab to ensure you get the experiences that will help you reach your goals and move in the direction you want. In addition, we may also identify out-of-lab activities that you can engage in (e.g., classes, seminars, clinical activities, volunteer activities, additional mentorship, and so on) to help you reach your goals. 
