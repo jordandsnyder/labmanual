@@ -22,7 +22,7 @@ It’s also a work in progress; therefore, updates are implemented as we move fo
  
 No Name lab members are expected to read this manual and sign a form within your first 7 days in the lab indicating you have done so. Signing this form confirms that the lab member will perform their duties and meet the expectations according to this manual.
 
-Before the actual lab manual, we have some people to thank. These include folks who have made their lab manual accessible and members of the lab who have provided feedback based upon the lab manual.
+Before the actual lab manual, we have some people to thank. These include folks who have made their lab manual accessible and members of the lab who have provided feedback based upon the lab manual. Some of the sections are taken directly from these sources, and all of them have provided inspiration on aspects to include in this manual.
 
 Specifically, we thank the following for making their lab manuals accessible:
 
