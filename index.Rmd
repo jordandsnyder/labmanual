@@ -16,7 +16,7 @@ github-repo: https://github.com/jordandsnyder/labmanual
 ---
 
 # Welcome! {-}
-Welcome to the No-Name Lab at the University of Wisconsin, Parkside! If you are reading our lab manual because you recently joined the lab, welcome! If you are a current member of the lab, frequently refer to our lab manual to refresh our guidelines, policies, platforms, among others. We also look forward to learn and research together. We also welcome you to read this manual if you are looking for tips and tricks for your own manual.
+Welcome to the No-Name Lab [NEED A BETTER NAME] at the University of Wisconsin, Parkside! If you are reading our lab manual because you recently joined the lab, welcome! If you are a current member of the lab, frequently refer to our lab manual to refresh our guidelines, policies, platforms, among others. We also look forward to learn and research together. We also welcome you to read this manual if you are looking for tips and tricks for your own manual.
  
 It’s also a work in progress; therefore, updates are implemented as we move forward. If you have ideas about things to add, or what to clarify, feel free to talk to the PI (Dr. Jordan Snyder).
  
@@ -38,7 +38,7 @@ Specifically, we thank the following for making their lab manuals accessible:
 
 ## About this Lab Manual
 
-We use a lab manual for a few reasons. First, it makes certain things explicit, including things like expectations, so that we don't have to guess. Second, it removes the informal passing on of critical information; with this information and the appropriate information in the [LAB WIKI - LINK TBD](), you should have everything to get caught up to reasonable speed. If you do find something that you think is necessary, but not in here, talk with Jordan or the lab manager about getting this added.
+We use a lab manual for a few reasons. First, it makes certain things explicit, including things like expectations, so that we don't have to guess. Second, it removes the informal passing on of critical information; with this information and the appropriate information in the [LAB WIKI - LINK TBD - THINKING SHAREPOINT?](), you should have everything to get caught up to reasonable speed. If you do find something that you think is necessary, but not in here, talk with Jordan or the lab manager about getting this added.
 
 Jordan will likely revise this lab manual on an semester basis, and as issues come up.
 
