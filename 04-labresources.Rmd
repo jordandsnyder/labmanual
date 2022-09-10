@@ -2,11 +2,18 @@
 
 ## Sharepoint
 
-The lab sharepoint is one of the primary ways that we facilitate information. This website will also host the lab wiki. There is a planner tool that will be used to assign work to folks.
+The lab sharepoint is one of the primary ways that we facilitate information. This website will also host the lab wiki. The sharepoint will host all of our written documents, and a plethora of other resources. Consider it the main go to for lab related purposes. 
+
+### Planner
+Planner will serve as the main way in which we coordinate activities that we are doing in any given moment. This is for two purposes:
+1. It helps document what you are doing and have done. This is nice in case you need to report what you are doing to someone else or creating a CV.
+2. It helps me and others know what other folks are doing. This will help cut down on email that we need to do to coordinate. Instead, we will pull this up at our meetings, and review processes from there.
+
+Please keep planner updated. Feel free to add tasks to the 'to do' list if you think they are warranted.
 
 ## Canvas
 
-We also have a canvas page that may host some information.
+We also have a canvas page that mhosts primarily didactic information (i.e., some videos that I have made for students).
 
 ## Qualtrics
 
@@ -14,7 +21,7 @@ This is how we will host surveys. Login information and design is available as n
 
 ## The Lab Space
 
-Our lab is found in MOLN315E. Jordan will give you information on how to login. 
+Our lab is found in MOLN315E. The sharepoint has information on how to access this space. I encourage you to use the space if you wish to study. However, if someone is doing lab-related work in the space, and needs solitude (i.e., they are doing an interview), please refrain from using the lab.  
 
 ## Funding
 

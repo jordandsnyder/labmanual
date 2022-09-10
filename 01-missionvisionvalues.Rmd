@@ -16,7 +16,7 @@ These are values that guide and direct our work on a daily basis. By working in 
 
 - Curiosity: We approach situations as opportunities to learn something new.
 
-- Integrity: We say what we mean, and mean what we say. We do what we say we will do, and admit when we have made mistakes.
+- Integrity: We say what we mean and mean what we say. We do what we say we will do and admit when we have made mistakes.
 
 - Relationships: We work towards forming authentic relationships with each other and community partners.
 
@@ -27,7 +27,7 @@ These are values that guide and direct our work on a daily basis. By working in 
 - Diversity: We all have different backgrounds and experiences. Through this diversity, we can all learn and get a better perspective. 
 
 
-## The Communities with whom we partner
+## The Communities with whom we Partner
 
 While open to working with a diverse range of communities, we have traditionally worked to improve wellness in conflict-affected populations. Specifically, we have partnered with the following organizations:
 
@@ -37,7 +37,7 @@ While open to working with a diverse range of communities, we have traditionally
 
 ## Our Collaborators
 
-Another crucial part of work are those with whom we collaborate. We believe that science is better (and more enjoyable) when done with partners. Below are a couple of our collaborators:
+Our collaborators are a crucial part to the work that we are completing. We believe that science is better (and more enjoyable) when done with partners. Below are a couple of our collaborators:
 
 - [Sara Buckingham, Ph.D.](https://www.uaa.alaska.edu/academics/college-of-arts-and-sciences/departments/psychology/faculty/buckingham.cshtml), and the [Crossroads Research Collective](https://crossroadsresearch.wixsite.com/collective)
 
@@ -45,24 +45,23 @@ Another crucial part of work are those with whom we collaborate. We believe that
 
 ## Our History
 
-Jordan established the lab in 2022 at UW Parkside. Kaylie Garcia and Rachael Hall were inaugural lab members beginning in Spring 2022 and Undergraduate Research Assistants through the [Undergraduate Research Aassistantship Program (URAP)](#URAP) in Summer 2022.
+Jordan established the lab in 2022 at UW Parkside. Kaylie Garcia and Rachael Hall were inaugural lab members beginning in Spring 2022 and Undergraduate Research Assistants through the [Undergraduate Research Assistantship Program (URAP)](#URAP) in Summer 2022.
 
 ## Space and Info
 
 The lab is located at the University of Wisconsin Parkside, and a physical location is MOLN315E. Information about accessing the lab is available from Jordan.
 
-Lab Website: TBD
-Lab Wiki: TBD
-Lab Manual: TBD
+[Lab Wiki](https://rangersuwp.sharepoint.com/sites/NoNameLab)
+[Lab Manual](https://bookdown.org/jordandanielsnyder/LabManual/)
 
-PI contact: TB
+PI contact: Jordan Snyder, PsyD
 
 ## Joining the Lab
 
 To join the lab, there is a multi-step process. 
 
 1. Send Jordan a lab application. A lab application consists of sending Jordan an email (snyderj@uwp.edu) with the following: (1) what year you will be in the semester/year you want to be an RA, (2) your expected month and year of graduation, (3) whether or not you have completed Statistics and Research Methods, (4) your GPA, (5) why you want to be an RA, and which type of RA you are interested in being (see below for more information, but options are for credit, volunteer, or URAP), (6) what area of psychology is most interesting to you and why, (7) what are your strengths and weaknesses, (8) what are your plans for the future, and (9) anything else you think is relevant. I will respond to your email and let you know if we should have an interview. Please note, there are several ways to join the lab:
-  + Join the lab as a volunteer. If you join the lab as a volunteer, you will not get compensated or get academic credit for participating in lab. I ask students who volunteer in lab not to do more than 5 hours of lab work per week (inclusive of all meetings).
+  + Join the lab as a volunteer. If you join the lab as a volunteer, you will not get compensated or get academic credit for participating in lab. I ask students who volunteer in lab not to do more than 3-5 hours of lab work per week (inclusive of all meetings).
 
   + Join the lab for credit. If you join the lab for credit (and Jordan approves this), you will work on a form with Jordan to submit to the registrar. The form will contain a list of obligations/responsibilities for you to complete for a grade. You will get credit for [PSYC499](https://www.uwp.edu/learn/academiccatalog/2019-2021/psyc.cfm#courses#courses). You can get up to 6 credits of PSYC499, with 3 credits counting for upper level electives in the psychology major, and 3 credits counting for upper level electives. If you wish to use 6 credits, I ask that you commit to a full year in the lab (September - May) and use 3 credits per semester. I ask students to expect to work a maximum of 3 hours per week per credit hour (e.g., for 3 credits, you could work up to 9 hours in lab responsibilities per week). However, I don't want you working more than that outside special occasions (e.g., traveling to a conference, etc.).
 
@@ -72,7 +71,7 @@ To join the lab, there is a multi-step process.
 
 3. If you join the lab, you will be expected to do the following:
   + Do the [Onboarding Section - LINK TBD]() of this lab manual.
-  + Fufill the obligations listed in the expectations role for which you are joining the lab.
+  + Fulfill the obligations listed in the expectations role for which you are joining the lab.
 
 4. Jordan will do the following:
   + Add you to the lab sharepoint.
