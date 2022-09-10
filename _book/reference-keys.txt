@@ -49,6 +49,7 @@ graduate-school-applications
 individualized-training-plans
 lab-resources
 sharepoint
+planner
 canvas
 qualtrics
 the-lab-space
