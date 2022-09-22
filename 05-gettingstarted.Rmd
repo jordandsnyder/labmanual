@@ -1,0 +1,13 @@
+# Getting Started and Onboarding {#onboarding}
+
+If you are reading this, you have joined the lab. After your initial meeting with Jordan, he will send you invites to join the following:
+- The [Lab Sharepoint]{#sharepoint}
+- The [Lab Zotero]{#zotero}
+- The [Lab Canvas Page]{#canvas}
+
+1. Please join all of these. Please click on the link to learn how each one is used in the lab. Please download as necessary (e.g., Zotero). If you run into issues, please try to troubleshoot them yourself by googling what issues you are running into, but if you need to, talk with Jordan and he will help you figure it out.
+2. Please read the [lab manual](https://bookdown.org/jordandanielsnyder/LabManual/). Jordan will send you this lab manual shortly after the other links.
+3. Please complete a mentoring plan in sharepoint. These can be found in the folder marked /documents/mentoring plans along with the corresponding semester/year. Please review the document in your folder, and then add in any specific goals you would like. Dr. Snyder will talk with you more about this at your next individual meeting.
+4. Please start to get more comfortable with sharepoint/zotero/[planner]{#planner}.
+5. Attend your next meeting with Jordan. He will have more specifics on what to do depending on your project.
+

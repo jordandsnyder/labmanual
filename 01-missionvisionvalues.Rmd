@@ -70,7 +70,7 @@ To join the lab, there is a multi-step process.
 2. Jordan will review these applications on a weekly basis and reach out if he has capacity/availability for a student to schedule an interview. Based upon the application and the interview, he may extend an invitation to join the lab.
 
 3. If you join the lab, you will be expected to do the following:
-  + Do the [Onboarding Section - LINK TBD]() of this lab manual.
+  + Do the [Onboarding Section](#onboarding) of this lab manual.
   + Fulfill the obligations listed in the expectations role for which you are joining the lab.
 
 4. Jordan will do the following:

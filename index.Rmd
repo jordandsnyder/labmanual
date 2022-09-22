@@ -1,6 +1,6 @@
 --- 
-title: "Lab Manual for the No Name Lab"
-author: "The Lab"
+title: "Lab Manual for the Global Community Wellness Lab"
+author: "Jordan D. Snyder, Psy.D."
 date: "Updated on `r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -10,7 +10,7 @@ cover-image: images/cover.jpg
 favicon: "images/icon.png"
 biblio-style: apalike
 description:  |  
-  This is the lab manual for the no-name lab.
+  This is the lab manual for the Global Community Wellness Lab at the University of Wisconsin, Parkside.
 link-citations: yes
 github-repo: https://github.com/jordandsnyder/labmanual
 ---
@@ -18,7 +18,7 @@ github-repo: https://github.com/jordandsnyder/labmanual
 # Welcome! {-}
 Welcome to the Global Community Wellness Lab at the University of Wisconsin, Parkside! If you are reading our lab manual because you recently joined the lab, welcome! If you are a current member of the lab, frequently refer to our lab manual to refresh our guidelines, policies, platforms, among others. We also look forward to learning and researching together. We also welcome you to read this manual if you are looking for tips and tricks for your own manual.
  
-It’s also a work in progress; therefore, updates are implemented as we move forward. If you have ideas about things to add, or what to clarify, feel free to talk to the primary invesitgator (PI; Dr. Jordan Snyder).
+It’s also a work in progress; therefore, updates are implemented as we move forward. If you have ideas about things to add, or what to clarify, feel free to talk to the primary investigator (PI; Dr. Jordan Snyder).
  
 No Name lab members are expected to read this manual and sign a form within your first 7 days in the lab indicating you have done so. Signing this form confirms that the lab member will perform their duties and meet the expectations according to this manual.
 
