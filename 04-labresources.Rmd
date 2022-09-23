@@ -1,21 +1,20 @@
 # Lab Resources
 
-## Sharepoint {#sharepoint}
-
+## Sharepoint
 The lab sharepoint is one of the primary ways that we facilitate information. This website will also host the lab wiki. The sharepoint will host all of our written documents, and a plethora of other resources. Consider it the main go to for lab related purposes. There will be a folder for the project that you are working on, a folder that hosts mentoring resources, a folder that hosts research resources, and other folders related to the lab. Additionally, the sharepoint will also have information on how to get in the lab. I will also post our meeting agendas here.
 
-### Planner {#planner}
+### Planner
 Planner will serve as the main way in which we coordinate activities that we are doing in any given moment. This is for two purposes:
 1. It helps document what you are doing and have done. This is nice in case you need to report what you are doing to someone else or creating a CV.
 2. It helps me and others know what other folks are doing. This will help cut down on email that we need to do to coordinate. Instead, we will pull this up at our meetings, and review processes from there.
 
 Please keep planner updated. Feel free to add tasks to the 'to do' list if you think they are warranted.
 
-## Zotero {#zotero}
+## Zotero 
 
 [Zotero](https://www.zotero.org/) is a reference management system. It serves as a way for us to store journal articles and other things of note across the lab even when using different computers. You can also highlight or make notes on articles that you wish to as you read them. Additionally, it serves as a handy tool when you are writing up results - it can actually input your citations/bibliographies automatically! No more worries about having to wonder if you did APA formatting correctly. This is especially helpful as you move further on in your graduate career (especially if you have to write research publications, a thesis, or a dissertation). Get used to this now! It also has nice plugins for your internet browser (so you can save an article) and for word processing systems (so you can cite things when you are typing them).
 
-## Canvas {#canvas}
+## Canvas 
 
 We also have a canvas page that hosts primarily didactic information (i.e., some videos that I have made for students).
 

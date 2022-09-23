@@ -44,7 +44,7 @@ Jordan will likely revise this lab manual on a semester basis, and as issues com
 
 **Welcome to the Lab!**
 
-*Note: the date listed above corresponds to the date the manual was updated. The date this manual was initially created was on [INSERT DATE HERE].*
+*Note: the date listed above corresponds to the date the manual was updated. The date this manual was initially created was in Summer 2022.*
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

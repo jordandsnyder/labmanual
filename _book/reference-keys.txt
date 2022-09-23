@@ -50,8 +50,10 @@ individualized-training-plans
 lab-resources
 sharepoint
 planner
+zotero
 canvas
 qualtrics
 the-lab-space
 funding
 URAP
+onboarding
